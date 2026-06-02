@@ -1,2 +1,1 @@
-# my_flutter_app
-my first mobile app 
+# My First Mobile App Project
